@@ -13,7 +13,7 @@ import ActivateAccount from "../components/Registration/ActivateAccount";
 import Profile from "../pages/Profile";
 import DashboardLayout from "../layout/DashboardLayout";
 import BookingCheckout from "../components/Booking/BookingCheckout";
-import Bookings from "../components/Booking/booking";
+import Bookings from "../components/Booking/Bookings";
 
 const AppRoutes = () => {
   return (

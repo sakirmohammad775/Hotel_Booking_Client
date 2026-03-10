@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import authApiClient from '../../services/Auth-Api-Client';
-import TableCard from '../../components/Dashboard/TableCard';
+import TableCard from '../Dashboard/TableCard';
 
 const Bookings = () => {
   const [bookingList, setBookingList] = useState([]);
