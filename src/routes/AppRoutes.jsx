@@ -1,6 +1,5 @@
-import React from "react";
-import { Route, Routes } from "react-router";
 
+import { Route, Routes } from "react-router";
 import MainLayout from "../layout/MainLayout";
 import Home from "../pages/Home";
 import SpecificHotelPage from "../components/Hotel/SpecificHotelPage";
