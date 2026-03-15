@@ -1,6 +1,6 @@
 import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
-import useAuthContext from "../../hooks/useAuthContext";
+import useAuthContext from "../../Hooks/useAuthContext";
 import { useState } from "react";
 
 const Register = () => {

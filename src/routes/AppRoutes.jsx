@@ -1,6 +1,6 @@
 
 import { Route, Routes } from "react-router";
-import MainLayout from "../layout/MainLayout";
+import MainLayout from "../Layout/MainLayout";
 import Home from "../pages/Home";
 import SpecificHotelPage from "../components/Hotel/SpecificHotelPage";
 import RoomDetailsPage from "../components/RoomDetails/RoomDetailsPage";
@@ -10,7 +10,7 @@ import PrivateRoute from "../components/PrivateRoute";
 import Dashboard from "../pages/Dashboard";
 import ActivateAccount from "../components/Registration/ActivateAccount";
 import Profile from "../pages/Profile";
-import DashboardLayout from "../layout/DashboardLayout";
+import DashboardLayout from "../Layout/DashboardLayout";
 import BookingCheckout from "../components/Booking/BookingCheckout";
 import Bookings from "../components/Booking/Bookings";
 

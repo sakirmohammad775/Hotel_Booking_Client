@@ -16,7 +16,7 @@ import {
   User,
   ShoppingBag
 } from "lucide-react";
-import useAuthContext from "../../hooks/useAuthContext";
+import useAuthContext from "../../Hooks/useAuthContext";
 
 const Sidebar = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);

@@ -1,5 +1,5 @@
 import { useForm } from "react-hook-form";
-import useAuthContext from "../../hooks/useAuthContext";
+import useAuthContext from "../../Hooks/useAuthContext";
 import ErrorAlert from "../ErrorAlert";
 import { useNavigate } from "react-router";
 import { useState } from "react";

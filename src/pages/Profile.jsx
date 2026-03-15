@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import useAuthContext from "../hooks/useAuthContext";
+import useAuthContext from "../Hooks/useAuthContext";
 import { useForm } from "react-hook-form";
 import ErrorAlert from "../components/ErrorAlert";
 import ProfileButtons from "../components/Dashboard/Profile/ProfileButtons";
